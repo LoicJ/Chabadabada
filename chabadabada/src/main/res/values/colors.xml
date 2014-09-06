@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="holoPurple">#aa66cc</color>
+	<color name="background">#fff4f4f4</color>
+	<color name="separator">#ff454545</color>
+	<!--apptheme_color-->
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chabadabada</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="team1">Equipe 1</string>
+    <string name="newGame">Nouvelle partie</string>
+    <string name="team2">Equipe 2</string>
+    <string name="time">Temps par manche</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="help">Règles du jeu</string>
+    <string name="pause">Mettre le timer en Pause</string>
+
+</resources>
