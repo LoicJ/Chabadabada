@@ -31,13 +31,25 @@
 		android:layout_width="wrap_content"
 		android:layout_centerInParent="true"
 		app:stroke_width="10dp"
-		app:progress="0.4"
-		app:marker_progress="0.6"
+		app:marker_progress="0"
 		app:progress_color="@color/holoPurple"
 		app:progress_background_color="#cccccc"
 		android:gravity="center"
-		app:marker_visible="false"
+		app:marker_visible="true"
 		app:thumb_visible="false"/>
+
+	<!--<de.passsy.holocircularprogressbar.HoloCircularProgressBar-->
+		<!--android:id="@+id/holoCircularProgressBar1"-->
+		<!--android:layout_width="wrap_content"-->
+		<!--android:layout_height="wrap_content"-->
+		<!--app:progress_color="@color/holoPurple"-->
+		<!--android:layout_centerInParent="true"-->
+		<!--app:stroke_width="10dp"-->
+		<!--app:progress="0.5"-->
+		<!--android:gravity="center"-->
+
+
+		<!--/>-->
 
     <RelativeLayout
         android:layout_width="wrap_content"

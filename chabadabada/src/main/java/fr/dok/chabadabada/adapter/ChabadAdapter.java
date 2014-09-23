@@ -50,4 +50,10 @@ public class ChabadAdapter extends FragmentStatePagerAdapter {
         deck.remove(0);
         notifyDataSetChanged();
     }
+
+	@Override
+	public int getItemPosition(Object object) {
+
+		return POSITION_NONE;
+	}
 }

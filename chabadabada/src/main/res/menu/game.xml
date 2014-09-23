@@ -6,4 +6,8 @@
 		  android:icon="@drawable/ic_action_pause"
         android:title="@string/pause"
         app:showAsAction="always" />
+    <item android:id="@+id/action_next"
+		  android:icon="@drawable/ic_action_pause"
+        android:title="@string/pause"
+        app:showAsAction="always" />
 </menu>
